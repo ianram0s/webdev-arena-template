@@ -3,15 +3,11 @@ import { BsThreeDots } from "react-icons/bs";
 import { FaBell } from "react-icons/fa";
 import { FaPaw } from "react-icons/fa";
 import { FaPlus } from "react-icons/fa";
-import { FaSearch } from "react-icons/fa";
 import { FaUserFriends } from "react-icons/fa";
 import { FaUsers } from "react-icons/fa";
-import { GiMedicines } from "react-icons/gi";
 import { IoChatbubbleSharp } from "react-icons/io5";
 import { LiaFileInvoiceDollarSolid } from "react-icons/lia";
-import { LuClock4 } from "react-icons/lu";
 import { LuVideo } from "react-icons/lu";
-import { PiDogFill } from "react-icons/pi";
 import { PiPiggyBankFill } from "react-icons/pi";
 import { TiMessages } from "react-icons/ti";
 
